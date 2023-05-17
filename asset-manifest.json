@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_reactjs/static/css/main.31bbb32c.css",
-    "main.js": "/portfolio_reactjs/static/js/main.a44805b1.js",
+    "main.css": "/portfolio_reactjs/static/css/main.ef828012.css",
+    "main.js": "/portfolio_reactjs/static/js/main.e5d228a6.js",
     "static/media/fa-solid-900.svg": "/portfolio_reactjs/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/portfolio_reactjs/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/fa-solid-900.eot": "/portfolio_reactjs/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
@@ -21,11 +21,11 @@
     "index.html": "/portfolio_reactjs/index.html",
     "static/media/arrow_left.svg": "/portfolio_reactjs/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
     "static/media/arrow_right.svg": "/portfolio_reactjs/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
-    "main.31bbb32c.css.map": "/portfolio_reactjs/static/css/main.31bbb32c.css.map",
-    "main.a44805b1.js.map": "/portfolio_reactjs/static/js/main.a44805b1.js.map"
+    "main.ef828012.css.map": "/portfolio_reactjs/static/css/main.ef828012.css.map",
+    "main.e5d228a6.js.map": "/portfolio_reactjs/static/js/main.e5d228a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.31bbb32c.css",
-    "static/js/main.a44805b1.js"
+    "static/css/main.ef828012.css",
+    "static/js/main.e5d228a6.js"
   ]
 }
